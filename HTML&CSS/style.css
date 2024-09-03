@@ -1,0 +1,56 @@
+body{
+    background-image: url(portfolio\ background.avif);
+    background-repeat: no-repeat;
+    background-size: 1600px 800px;
+    background-attachment: fixed;
+}
+
+
+.menu{
+    padding-left: 550px;
+   margin-top: -20px;
+
+}
+.header{
+    margin-top: 35px;
+    padding-left:30px
+  
+}
+    
+
+h2{
+    margin-top: 30px;
+    color: yellow;
+    display: inline;
+    text-transform: uppercase;
+
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    display: inline;
+    
+    padding-left: 120px;
+
+}
+a:hover{
+    color: tomato;
+}
+.intro{
+    font-family: "nerko one",cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: aliceblue;
+    margin-top: 200px;
+}
+p{
+    padding-LEFT: 150px;
+    padding-right: 550px;
+    
+}
+.image img{
+    padding-left: 1000px;
+    margin-top: -423px;
+}
